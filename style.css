@@ -145,8 +145,17 @@ display: flex;
     padding-left: 2%;
     padding-right: 2%;
     height: 200px;
+}
 
+#h1-Subscriber-1{
 
+    text-align: left;
+
+}
+
+#h1-Subscriber-2{
+
+    text-align: Right;
 
 }
 
