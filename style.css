@@ -133,8 +133,21 @@ display: flex;
 .box-Shadow{
 
     border-radius: 20px;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 50px rgb(190, 189, 189);
     
+}
+
+.Section_Subscriber{
+
+    Width:80%;
+    Margin-left: 8%;
+    margin-right:5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: 200px;
+
+
+
 }
 
 
