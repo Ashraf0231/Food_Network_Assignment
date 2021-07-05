@@ -4,7 +4,13 @@
 body{
 
     font-family: 'Poppins', sans-serif;
+    color: rgb(59, 58, 58);
 
+}
+
+h1{
+
+    font-size: 40px;
 }
 .Button-Link{
     text-decoration: none;
@@ -13,4 +19,19 @@ body{
     padding: 10px 40px;
     border-radius: 10px;
     font-weight: bold;
+}
+
+.Flexible-Container{
+
+display: flex;
+
+}
+
+#div-Column{
+
+    width:50%;
+    padding-left: 5%;
+    padding-right: 5%;
+
+
 }
