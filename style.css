@@ -59,6 +59,14 @@ display: flex;
     max-width: 50%;
 }
 
+#image-Recipe{
+    padding-top: 20px;
+    padding-left: 30px;
+    max-width: 80%;
+
+
+}
+
 #div-About-Me{
 
     background-image: url(image/shapes/7.png);
@@ -83,10 +91,50 @@ display: flex;
     
 }
 
-.Recipe-Section{
+.Recipe-Section-1{
 
-    width:30%;
-    margin-left:10%;
+    width:22%;
+    margin-left:6%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-right:0;
+   
+}
+
+#image-Recipe{
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 92%;
+
+
+}
+
+.Recipe-Section-2{
+
+    width:22%;
+    margin-left:3%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-right:3%;
+   
+}
+
+.Recipe-Section-3{
+
+    width:22%;
+    margin-left:0;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-right:5%;
+   
+}
+
+.box-Shadow{
+
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    
 }
 
 
