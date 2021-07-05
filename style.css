@@ -5,7 +5,8 @@ body{
 
     font-family: 'Poppins', sans-serif;
     color: rgb(59, 58, 58);
-
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 h1{
@@ -27,11 +28,30 @@ display: flex;
 
 }
 
-#div-Column{
+#div-Column-1{
 
-    width:50%;
-    padding-left: 5%;
-    padding-right: 5%;
+   
+    width:30%;
+    padding-left: 10%;
+   
+    padding-top: 5%;
+    margin-left: 2%;
+    margin-top: 5%;
+    
+}
 
+#div-Column-2{
 
+    
+    width:40%;
+    padding-left: 10%;
+    
+    padding-top: 5%;
+    
+    
+}
+
+#image{
+
+    max-width: 85%;
 }
