@@ -70,7 +70,7 @@ display: flex;
     
     width:50%;
     padding-left: 14% ;
-    padding-top: 6%;
+    padding-top: 7%;
     
 }
 
@@ -78,7 +78,15 @@ display: flex;
 
     width:50%;
     padding-top: 9%;
+
+    padding-right:12%;
     
+}
+
+.Recipe-Section{
+
+    width:30%;
+    margin-left:10%;
 }
 
 
